@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Interest to solve Errors.<br>📚 I'm currently learning Javascript & DSA.<br>🎯 Goals: To Learn new technologies<br> - 📫 How to reach me <a href="#">chandrakantpawar590@gmail.com</a>a></h5>
+<h5 align="left">✨ Interest to solve Errors.<br>📚 I'm currently learning Javascript & DSA.<br>🎯 Goals: To Learn new technologies<br>📫 How to reach me <a href="#">chandrakantpawar590@gmail.com</a></h5>
 
 ###
 
@@ -37,7 +37,7 @@
 </div>
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawarchandrakant29&show_icons=true&locale=en&layout=compact" alt="pawarchandrakant29" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawarchandrakant29&show_icons=true&locale=en&layout=compact" alt="pawarchandrakant29" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chandrakant29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrakant29" height="30" width="40" /></a>
