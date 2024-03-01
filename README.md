@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Interest to solve Errors.<br>📚 I'm currently learning Javascript & DSA.<br>🎯 Goals: To Learn new technologies<br>📫 How to reach me <a href="#">chandrakantpawar590@gmail.com</a></h5>
+<h5 align="left">✨ Interest to solve Errors.<br>📚 I'm currently learning Javascript & DSA.<br>🎯 Goals: To Learn new technologies<br>📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">chandrakantpawar590@gmail.com</a></h5>
 
 ###
 
